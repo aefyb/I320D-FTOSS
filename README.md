@@ -34,3 +34,8 @@ The dataset, _Amazon Books Reviews_ created by Mohamed Bekheet, was used for thi
 - infoLink (information link of book for google books)
 - categories (genre of book)
 - ratingsCount (average rating of book)
+[WIP]
+The cleaned dataset that was used in the final code consists 
+
+## Replicability
+[Placeholder]
