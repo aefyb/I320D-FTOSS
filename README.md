@@ -3,8 +3,12 @@ Final Project for Fine tuning Open-Source Software in Spring 2025
 
 This project was done by Jessica Nguyen, Pablo Carbajo Derennes, and Tanya Arya.
 
-## Goal
+# Goal
 The main goal of this project was to create an AI-powered book recommender that was able to adapt the user's request(s). For example, if the user requests for a book within a certain price point and a certain genre, the AI book recommender would be able to give a legitimate book that met the criteria.
+
+## Additional notes
+- The project file, `revision1.ipynb`, contains markdown results only up to the second test results. For results 3 through 5, please refer to `Project 2 Presentation.pptx` slides 7 through 9. The project presentation also contains our project process, issues, and future works considered.
+- A cleaned version of the dataset was used for the project code. To run the project file properly, please download `cleanedBookData.csv`. 
 
 ## Dataset Overview
 The link to the dataset: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data
